@@ -1,0 +1,156 @@
+{
+  "status": 200,
+  "message": "OK",
+  "data": [
+    {
+      "foto": "https://media.istockphoto.com/id/1477861700/id/foto/siswa-sma-indonesia-menunjuk-dengan-jari-terisolasi-pada-latar-belakang-biru-siswa-sma.jpg",
+      "nama": "Ahmad Rizky Fadillah",
+      "username": "ahmad.rizky",
+      "password": "password_ahmad123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2007-03-12"
+    },
+    {
+      "foto": "https://imgcdn.espos.id/@espos/images/2022/07/ilustrasi-siswa-SMA.jpg?quality=60",
+      "nama": "Budi Santoso",
+      "username": "budi.santoso",
+      "password": "password_budi123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2007-01-25"
+    },
+    {
+      "foto": "https://i.pinimg.com/736x/11/e8/a1/11e8a1e2ef38e23cf43eb1414631389e.jpg",
+      "nama": "Citra Lestari",
+      "username": "citra.lestari",
+      "password": "password_citra123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2007-06-10"
+    },
+    {
+      "foto": "https://media.istockphoto.com/id/1477861700/id/foto/siswa-sma-indonesia-menunjuk-dengan-jari-terisolasi-pada-latar-belakang-biru-siswa-sma.jpg",
+      "nama": "Dimas Pratama",
+      "username": "dimas.pratama",
+      "password": "password_dimas123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "2",
+      "tanggal_lahir": "2007-02-18"
+    },
+    {
+      "foto": "https://cdn.rabbani.id/7b093b4b9dea098c715663268e3a9def.png",
+      "nama": "Eka Putri",
+      "username": "eka.putri",
+      "password": "password_eka123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "2",
+      "tanggal_lahir": "2007-09-05"
+    },
+    {
+      "foto": "https://imgcdn.espos.id/@espos/images/2022/07/ilustrasi-siswa-SMA.jpg?quality=60",
+      "nama": "Fajar Nugroho",
+      "username": "fajar.nugroho",
+      "password": "password_fajar123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "2",
+      "tanggal_lahir": "2007-04-21"
+    },
+    {
+      "foto": "https://media.istockphoto.com/id/1477861700/id/foto/siswa-sma-indonesia-menunjuk-dengan-jari-terisolasi-pada-latar-belakang-biru-siswa-sma.jpg",
+      "nama": "Galih Saputra",
+      "username": "galih.saputra",
+      "password": "password_galih123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "3",
+      "tanggal_lahir": "2007-07-14"
+    },
+    {
+      "foto": "https://radarselatan.disway.id/upload/76fb104e99f6c22f40a149dde7864065.jpg",
+      "nama": "Hana Amelia",
+      "username": "hana.amelia",
+      "password": "password_hana123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "3",
+      "tanggal_lahir": "2007-11-02"
+    },
+    {
+      "foto": "https://imgcdn.espos.id/@espos/images/2022/07/ilustrasi-siswa-SMA.jpg?quality=60",
+      "nama": "Indra Kurniawan",
+      "username": "indra.kurniawan",
+      "password": "password_indra123",
+      "kelas": "XII",
+      "jurusan": "Otomotif",
+      "group_kelas": "3",
+      "tanggal_lahir": "2007-05-30"
+    },
+    {
+      "foto": "https://media.istockphoto.com/id/1477861700/id/foto/siswa-sma-indonesia-menunjuk-dengan-jari-terisolasi-pada-latar-belakang-biru-siswa-sma.jpg",
+      "nama": "Joko Wibowo",
+      "username": "joko.wibowo",
+      "password": "password_joko123",
+      "kelas": "XI",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2008-03-09"
+    },
+    {
+      "foto": "https://img.lazcdn.com/g/ff/kf/S49d6601bc66c4e37bd7b2205ed7fa484a.jpg_720x720q80.jpg",
+      "nama": "Karin Oktavia",
+      "username": "karin.oktavia",
+      "password": "password_karin123",
+      "kelas": "XI",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2008-08-17"
+    },
+    {
+      "foto": "https://imgcdn.espos.id/@espos/images/2022/07/ilustrasi-siswa-SMA.jpg?quality=60",
+      "nama": "Lukman Hakim",
+      "username": "lukman.hakim",
+      "password": "password_lukman123",
+      "kelas": "XI",
+      "jurusan": "Otomotif",
+      "group_kelas": "2",
+      "tanggal_lahir": "2008-01-04"
+    },
+    {
+      "foto": "https://i.pinimg.com/736x/11/e8/a1/11e8a1e2ef38e23cf43eb1414631389e.jpg",
+      "nama": "Maya Sari",
+      "username": "maya.sari",
+      "password": "password_maya123",
+      "kelas": "XI",
+      "jurusan": "Otomotif",
+      "group_kelas": "2",
+      "tanggal_lahir": "2008-06-28"
+    },
+    {
+      "foto": "https://media.istockphoto.com/id/1477861700/id/foto/siswa-sma-indonesia-menunjuk-dengan-jari-terisolasi-pada-latar-belakang-biru-siswa-sma.jpg",
+      "nama": "Nanda Prakoso",
+      "username": "nanda.prakoso",
+      "password": "password_nanda123",
+      "kelas": "X",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2009-02-15"
+    },
+    {
+      "foto": "https://cdn.rabbani.id/7b093b4b9dea098c715663268e3a9def.png",
+      "nama": "Oktavia Putri",
+      "username": "oktavia.putri",
+      "password": "password_oktavia123",
+      "kelas": "X",
+      "jurusan": "Otomotif",
+      "group_kelas": "1",
+      "tanggal_lahir": "2009-10-08"
+    }
+  ]
+}
